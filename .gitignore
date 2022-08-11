@@ -133,3 +133,6 @@ config.json
 
 # ignore .txt
 *.txt
+
+# ignore data folder
+/data
