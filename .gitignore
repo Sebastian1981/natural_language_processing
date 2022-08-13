@@ -136,3 +136,6 @@ config.json
 
 # ignore data folder
 /data
+
+# ignore model folder
+/model
