@@ -141,5 +141,5 @@ config.json
 /model
 
 # ignore azure ml files
-.amlignore
-.amlignore.amltmp
+*.amlignore
+*.amlignore.amltmp
