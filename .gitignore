@@ -139,3 +139,7 @@ config.json
 
 # ignore model folder
 /model
+
+# ignore azure ml files
+.amlignore
+.amlignore.amltmp
